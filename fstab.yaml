@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://adobe-my.sharepoint.com/:f:/p/catalan/Eok7YgCjLnpIupXml-djWgsBxCZj04Ij1-veBBwLZFeREQ?e=clpGpC
+  /: 
+    url: "https://adobe-my.sharepoint.com/:f:/p/catalan/Eok7YgCjLnpIupXml-djWgsBxCZj04Ij1-veBBwLZFeREQ?e=clpGpC"
